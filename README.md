@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ange! 👋
 
-<!--
-**angegomez230-ai/angegomez230-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Business Informatics at Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, Germany.
 
-Here are some ideas to get you started:
+I'm interested in software development, AI and digitalization. Through my university projects, I've gained hands-on experience in web development, databases and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- **Programming:** Java, SQL, basic Python
+- **Web:** HTML, CSS, JSP
+- **Database:** PostgreSQL
+- **Tools:** Eclipse, VS Code, GitHub Copilot
+- **Currently learning:** SAP Fiori, Business Intelligence
+
+### 📂 Projects
+- **YourWaxStoff:** A web application for Wax fabrics and custom-made clothing, developed as a university team project.
+- **AI-Assisted Debugging:** Testing how GitHub Copilot handles different types of Python errors.
+- **Hospital Appointment Management:** A university team project exploring AI-based appointment scheduling.
+- **Lean Management:** Exploring Lean methods in project management.
+
+### 🌱 What's next?
+I'm looking for opportunities to gain practical IT experience, improve my skills and learn from experienced teams.
