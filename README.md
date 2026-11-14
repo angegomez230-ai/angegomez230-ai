@@ -1,51 +1,51 @@
-# Hi, I'm Ange! 👋
+# Hallo, ich bin Ange! 👋
 
-🎓 **Business Informatics (B.Sc.) Student** | Hochschule für Wirtschaft und Gesellschaft Ludwigshafen, Germany
+🎓 **Wirtschaftsinformatik-Studentin (B.Sc.)** an der Hochschule für Wirtschaft und Gesellschaft Ludwigshafen.
 
-I'm passionate about software development, databases, artificial intelligence, and digital transformation.
+Ich interessiere mich besonders für Softwareentwicklung, Datenbanken, künstliche Intelligenz und Digitalisierung.
 
-Through university projects, I've gained practical experience in developing web applications, working with relational databases, and exploring AI-assisted programming tools.
+Durch meine Hochschulprojekte konnte ich praktische Erfahrungen in der Webentwicklung, Programmierung und Arbeit mit relationalen Datenbanken sammeln.
 
-I'm currently looking for a **Working Student position in IT** where I can apply my knowledge, contribute to real-world projects, and continue developing my technical skills.
+Aktuell suche ich eine **Werkstudentenstelle im IT-Bereich**, um meine Kenntnisse in der Praxis einzusetzen und mich fachlich weiterzuentwickeln.
 
-### 💻 Technical Skills
+### 💻 Technische Kenntnisse
 
-- **Programming:** Java, SQL, Python (basic)
-- **Web Development:** HTML, CSS, JSP, JDBC
-- **Databases:** PostgreSQL
+- **Programmierung:** Java, SQL, Python (Grundkenntnisse)
+- **Webentwicklung:** HTML, CSS, JSP, JDBC
+- **Datenbanken:** PostgreSQL
 - **Tools & Deployment:** Git, GitHub, Eclipse, VS Code, Docker, Apache Tomcat, Render
-- **AI Tools:** GitHub Copilot
-- **Currently Learning:** SAP Fiori, Business Intelligence
+- **KI-Werkzeuge:** GitHub Copilot
+- **Aktuell in Weiterbildung:** SAP Fiori, Business Intelligence
 
-### 🚀 Featured Project
+### 🚀 Mein Hauptprojekt
 
-**YourWaxStoff – Java Web Application**
+**YourWaxStoff – Java-Webanwendung**
 
-A database-driven web application for Wax fabrics and custom-made clothing, developed as part of a university team project.
+Eine datenbankgestützte Webanwendung für Waxstoffe und maßgeschneiderte Kleidung, die im Rahmen eines Hochschul-Teamprojekts entwickelt wurde.
 
-- Product catalog with images, prices, and filtering options
-- Product detail pages and ordering features
-- Java/JSP backend connected to PostgreSQL
-- Public deployment using Docker, Apache Tomcat, Render, and Neon PostgreSQL
+- Produktkatalog mit Bildern, Preisen und Filtermöglichkeiten
+- Produktdetailseiten und Bestellfunktionen
+- Java/JSP mit PostgreSQL-Datenbank
+- Online-Bereitstellung mit Docker, Apache Tomcat, Render und Neon PostgreSQL
 
-🌐 **[Try the Live Demo](https://yourwaxstoff.onrender.com)**  
-💻 **[View Source Code](https://github.com/angegomez230-ai/yourwaxstoff)**
+🌐 **[Live-Demo ausprobieren](https://yourwaxstoff.onrender.com)**  
+💻 **[Quellcode auf GitHub ansehen](https://github.com/angegomez230-ai/yourwaxstoff)**
 
-*Note: The free demo may take up to a minute to start.*
+*Hinweis: Beim ersten Aufruf kann die kostenlose Live-Demo etwa eine Minute zum Laden benötigen.*
 
-### 📂 Other Projects
+### 📂 Weitere Projekte
 
-**AI-Assisted Debugging**  
-Exploring how GitHub Copilot identifies and suggests fixes for different types of Python programming errors.
+**KI-gestütztes Debugging**  
+Untersuchung, wie GitHub Copilot bei der Erkennung und Behebung unterschiedlicher Python-Programmierfehler unterstützen kann.
 
-**AI-Based Hospital Appointment Management**  
-A university team project exploring how AI could support hospital appointment scheduling and resource planning.
+**KI-gestütztes Terminmanagement im Krankenhaus**  
+Hochschul-Teamprojekt zur Untersuchung des Einsatzes künstlicher Intelligenz bei der Termin- und Ressourcenplanung in Krankenhäusern.
 
-**Lean Management in Project Management**  
-A university team project examining Lean principles and methods for improving efficiency and reducing waste in project processes.
+**Lean Management im Projektmanagement**  
+Hochschul-Teamprojekt zur Anwendung von Lean-Prinzipien zur Prozessoptimierung und Vermeidung von Verschwendung.
 
-### 🌱 Currently Exploring
+### 🌱 Meine nächsten Ziele
 
-I'm expanding my knowledge of software engineering, AI-assisted development, SAP Fiori, and Business Intelligence.
+Ich möchte meine Kenntnisse in der Softwareentwicklung, Datenbanktechnologie und Digitalisierung weiter vertiefen.
 
-I'm motivated to gain hands-on experience in a professional IT environment, collaborate with experienced developers, and contribute to meaningful digital solutions.
+Besonders freue ich mich darauf, praktische Erfahrungen in einem IT-Team zu sammeln, an realen Projekten mitzuarbeiten und von erfahrenen Fachkräften zu lernen.
