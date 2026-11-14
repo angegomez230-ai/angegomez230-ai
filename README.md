@@ -23,7 +23,7 @@ Aktuell suche ich eine **Werkstudentenstelle im IT-Bereich**, um meine Kenntniss
 
 Eine datenbankgestützte Webanwendung für Waxstoffe und maßgeschneiderte Kleidung, die im Rahmen eines Hochschul-Teamprojekts entwickelt wurde.
 
-- Produktkatalog mit Bildern, Preisen und Filtermöglichkeiten
+- Produktkatalog mit Bildern, Preisen und Filtermöglichkeiten 
 - Produktdetailseiten und Bestellfunktionen
 - Java/JSP mit PostgreSQL-Datenbank
 - Online-Bereitstellung mit Docker, Apache Tomcat, Render und Neon PostgreSQL
