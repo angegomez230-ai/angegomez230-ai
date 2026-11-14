@@ -13,6 +13,8 @@ I'm interested in software development, AI and digitalization. Through my univer
 
 ### 📂 Projects
 - **YourWaxStoff:** A web application for Wax fabrics and custom-made clothing, developed as a university team project.
+ Web application developed as a university team project using Java, JSP and PostgreSQL.
+🌐 [Live Demo](https://yourwaxstoff.onrender.com) 
 - **AI-Assisted Debugging:** Testing how GitHub Copilot handles different types of Python errors.
 - **Hospital Appointment Management:** A university team project exploring AI-based appointment scheduling.
 - **Lean Management:** Exploring Lean methods in project management.
