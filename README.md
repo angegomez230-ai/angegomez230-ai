@@ -1,6 +1,6 @@
 # Hallo, ich bin Ange! 👋
 
-🎓 **Wirtschaftsinformatik-Studentin (B.Sc.)** an der Hochschule für Wirtschaft und Gesellschaft Ludwigshafen.
+🎓 **Wirtschaftsinformatik-Studentin (B.Sc.)** an der Hochschule für Wirtschaft und Gesellschaft Ludwigshafen 
 
 Ich interessiere mich besonders für Softwareentwicklung, Datenbanken, künstliche Intelligenz und Digitalisierung.
 
