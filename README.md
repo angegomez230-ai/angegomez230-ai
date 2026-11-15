@@ -36,7 +36,7 @@ Eine datenbankgestützte Webanwendung für Waxstoffe und maßgeschneiderte Kleid
 
 ### 📂 Weitere Projekte
 
-**KI-gestütztes Debugging**  
+**Automatisiertes Debugging mit KI Wwerkzeugen**  
 Untersuchung, wie GitHub Copilot bei der Erkennung und Behebung unterschiedlicher Python-Programmierfehler unterstützen kann.
 
 **KI-gestütztes Terminmanagement im Krankenhaus**  
